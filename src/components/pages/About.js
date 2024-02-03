@@ -61,14 +61,14 @@ const About = () => {
           <Me>
             <p>
               <h4 style={{ color: '#5f6368' }}> Designed and developed by </h4>
-              <h1 style={{ color: 'var(--font-color-3)' }}>Pranav Shukla.</h1>
+              <h1 style={{ color: 'var(--font-color-3)' }}>Raghujeet Singh</h1>
             </p>
             <div></div>
             <p>
               {/* <a
                 target='_blank'
                 rel='noreferrer'
-                href='https://pranav-shukla.netlify.app/'
+              
               >
                 Click to checkout my other projects.
               </a>{' '}
