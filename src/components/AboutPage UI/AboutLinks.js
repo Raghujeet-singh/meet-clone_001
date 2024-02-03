@@ -30,7 +30,7 @@ const AboutLinks = () => {
         <a
           target='_blank'
           rel='noreferrer'
-          href='https://github.com/pranavshukla1011'
+          href=''
         >
           <i class='fab fa-github'></i>
         </a>
@@ -39,7 +39,7 @@ const AboutLinks = () => {
           target='_blank'
           rel='noreferrer'
           style={{ color: '#0e76a8' }}
-          href='https://www.linkedin.com/in/shuklapranav1011/'
+          href='/'
         >
           <i class='fab fa-linkedin-in'></i>
         </a>
@@ -47,7 +47,7 @@ const AboutLinks = () => {
         <a
           target='_blank'
           rel='noreferrer'
-          href='https://mail.google.com/mail/u/1/?view=cm&fs=1&to=pranav.1011.shukla@gmail.com&tf=1'
+          href=''
         >
           <span>
             <img
