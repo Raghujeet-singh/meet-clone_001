@@ -60,7 +60,7 @@ const AboutLinks = () => {
         <a
           target='_blank'
           rel='noreferrer'
-          href='https://pranav-shukla.netlify.app/'
+          href='/'
         >
           <i class='fas fa-at'></i>
         </a>
